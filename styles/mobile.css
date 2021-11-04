@@ -72,6 +72,9 @@ input[type="email"] {
   padding: 5px;
   font-size: 1.2rem;
 }
+label {
+  display: block;
+}
 footer {
   border-top: 1px solid #ccc;
   margin: 20px 10px 10px 0;
